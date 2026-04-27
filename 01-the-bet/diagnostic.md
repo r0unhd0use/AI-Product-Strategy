@@ -79,18 +79,23 @@ Embedding into real workflows, not just training
 
 ## Killer Memo
 
-> You run AI at **[OpenAI / Google / Apple]**. Your OKR: make this product irrelevant.
+> You run AI at OpenAI. Your OKR: make this product irrelevant.
 >
 > **3-sentence memo:**
 >
-> 1. Attack:
-> 2. Wedge:
-> 3. Why users switch:
+> 1. Attack: Ship native “Professional Coaching Mode” inside ChatGPT that delivers real-time role-play, feedback, and industry-specific guidance—including accounting—removing the need for standalone training tools like AccountantPro Coach.
+> 2. Wedge: Bundle it into existing workflows (email, docs, CRM copilots) so accountants get coaching in the moment of client interaction, not in a separate training environment.
+> 3. Why users switch: It’s already where they work, instantly available, continuously improving, and “good enough” without requiring new tools, onboarding, or budget approval.1. Attack:
+
 
 ---
 
 ## Top Vulnerability
 <!-- One line: what's the single biggest strategic risk? -->
+Over-reliance on generic AI capabilities (role-play and coaching) that can be rapidly commoditized and embedded natively by platforms like OpenAI—making AccountantPro Coach easy to bypass unless it owns unique workflow integration and outcome-linked data.
 
 ## Confidence Level
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
+Medium
+
+Strong concept with clear user value and feasible execution, but long-term defensibility depends on building a real data moat and embedding into accountant workflows before platform players close the gap.
