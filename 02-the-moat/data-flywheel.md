@@ -108,9 +108,8 @@ Become the system of record for skill development:
 6. Team performance insights
 Move from:
 “tool” → “training infrastructure”
-Winning position:
 
-“We don’t manage work—we make your team better at it.”
+Winning position: “We don’t manage work—we make your team better at it.”
 
 ## 3. Adjacent Expansion
 Attacker: Intuit
@@ -118,27 +117,23 @@ Vector: Adds “AI advisor coaching” into existing accountant ecosystem (Quick
 Time-to-threat: 6–18 months
 % of value at risk: 70–80%
 
-Why:
-They already own:
+Why: They already own:
 
 Distribution (massive accountant base)
 Data (real SMB + accountant interactions)
 Workflow (where work actually happens)
 
-👉 They don’t need to be better—just integrated
+They don’t need to be better—just integrated
 
-our defense:
-
-👉 Integrate, don’t compete head-on
+Our defense: Integrate, don’t compete head-on
 
 Plug into their ecosystem:
-CRM / practice tools
-Accounting platforms
-Position as:
-Specialist layer, not replacement
-Build cross-platform intelligence:
-Insights they don’t unify
-Patterns across tools and workflows
-Winning position:
+1. CRM / practice tools
+2. Accounting platforms
 
-“We make your existing tools smarter and your people better.”
+Position as: Specialist layer, not replacement
+Build cross-platform intelligence:
+1. Insights they don’t unify
+2. Patterns across tools and workflows
+
+Winning position: “We make your existing tools smarter and your people better.”
