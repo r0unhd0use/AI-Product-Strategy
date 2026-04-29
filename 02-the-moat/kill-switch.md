@@ -14,21 +14,22 @@
 2 / 5 (High dependency, low switch readiness)
 
 You can switch—but not quickly or confidently
+
 High reliance on one provider’s behavior and tuning
 
 ## If OpenAI doubles pricing tomorrow:
 <!-- What's your 48-hour response? -->
 
 If OpenAI doubles pricing tomorrow:
-Impact: Immediate margin pressure / cost spike
-Response: Reduce usage, optimize prompts, begin switching
-Time to switch: ~2–4 weeks
-Risk: Medium–High (commercial viability affected short-term)
+- Impact: Immediate margin pressure / cost spike
+- Response: Reduce usage, optimize prompts, begin switching
+- Time to switch: ~2–4 weeks
+- Risk: Medium–High (commercial viability affected short-term)
 
 ## If OpenAI ships a competing product:
 <!-- What's defensible that they can't replicate? -->
 If OpenAI ships a competing product:
-Impact: Core features (role-play + coaching) commoditized
-Response: Compete on domain depth, workflow embedding, and data loops
-Time to respond: Immediate (but strategic repositioning needed)
-Risk: High (feature parity achieved quickly by platform)
+- Impact: Core features (role-play + coaching) commoditized
+- Response: Compete on domain depth, workflow embedding and data loops
+- Time to respond: Immediate (but strategic repositioning needed)
+- Risk: High (feature parity achieved quickly by platform)
