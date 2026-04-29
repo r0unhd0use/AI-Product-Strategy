@@ -65,3 +65,90 @@ The goal is to move from isolated practice into collective intelligence, where e
 **Attacker:**
 **Attack vector:**
 **Your defense:**
+
+## 1. Platform Encroachment
+Attacker: OpenAI (also Microsoft / Google)
+Vector: Native AI coaching + role-play embedded in ChatGPT / Copilot / Workspace
+Time-to-threat: 6–12 months
+% of value at risk: 60–70%
+
+Why:
+They can replicate your core mechanic (role-play + feedback) and distribute it instantly inside tools users already use.
+
+our defense:
+
+👉 Go deep, not broad
+
+Build accounting-specific coaching IP:
+Advisory frameworks
+Industry-specific scenarios
+“What good looks like” in accountant conversations
+Create structured evaluation + scoring models (not just responses)
+Focus on outcomes, not interaction:
+“Did this improve client value?”
+Winning position:
+
+“They generate answers. We train better accountants.”
+
+## 2. Vertical Competitor
+Attacker: Karbon or Canopy (or a new AI-native accounting startup)
+Vector: Purpose-built accounting training + advisory coaching deeply integrated into practice workflows
+Time-to-threat: 12–24 months
+% of value at risk: 50–60%
+
+Why:
+They understand:
+
+Accounting workflows
+Client lifecycle
+Real firm pain points
+
+👉 And can go deeper than a horizontal AI tool
+
+our defense:
+
+👉 Own the learning + performance layer
+
+Become the system of record for skill development:
+Progress tracking
+Benchmarking across teams
+Certification / readiness signals
+Build manager + firm tooling:
+Coaching dashboards
+Team performance insights
+Move from:
+“tool” → “training infrastructure”
+Winning position:
+
+“We don’t manage work—we make your team better at it.”
+
+## 3. Adjacent Expansion
+Attacker: Intuit
+Vector: Adds “AI advisor coaching” into existing accountant ecosystem (QuickBooks, ProAdvisor, etc.)
+Time-to-threat: 6–18 months
+% of value at risk: 70–80%
+
+Why:
+They already own:
+
+Distribution (massive accountant base)
+Data (real SMB + accountant interactions)
+Workflow (where work actually happens)
+
+👉 They don’t need to be better—just integrated
+
+our defense:
+
+👉 Integrate, don’t compete head-on
+
+Plug into their ecosystem:
+CRM / practice tools
+Accounting platforms
+Position as:
+Specialist layer, not replacement
+Build cross-platform intelligence:
+Insights they don’t unify
+Patterns across tools and workflows
+Winning position:
+
+“We make your existing tools smarter and your people better.”
