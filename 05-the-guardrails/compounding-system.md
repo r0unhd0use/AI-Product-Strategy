@@ -90,25 +90,27 @@ Practice → feedback → no real-world outcome validation
 
 The system currently measures:
 
-simulated coaching quality
+- simulated coaching quality
 
 but not:
 
-whether conversations improved actual client outcomes.
+- whether conversations improved actual client outcomes.
+
 Why this matters
 
 Without outcome linkage:
 
-the flywheel remains shallow
-coaching risks optimizing for simulation rather than performance
+- the flywheel remains shallow
+- coaching risks optimizing for simulation rather than performance
+
 **Fix plan:**
 
 Connect:
 
-CRM signals
-service adoption
-client growth metrics
-manager evaluations
+- CRM signals
+- service adoption
+- client growth metrics
+- manager evaluations
 
 back into coaching and evaluation loops.
 
@@ -120,17 +122,17 @@ Current issue
 
 Knowledge silos exist between:
 
-firms
-industries
-coaching styles
-advisory maturity levels
-Goal
+- firms
+- industries
+- coaching styles
+- advisory maturity levels
+- Goal
 
 Create a connected intelligence layer where:
 
-successful patterns transfer across contexts
-firm playbooks inform coaching dynamically
-insights compound across the ecosystem without exposing sensitive data
+- successful patterns transfer across contexts
+- firm playbooks inform coaching dynamically
+- insights compound across the ecosystem without exposing sensitive data
 
 ### In Summary; 
 AccountantPro Coach compounds when every conversation, correction, and outcome improves future coaching quality — not just for one user, but across the entire advisory network.
