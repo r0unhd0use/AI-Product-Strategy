@@ -4,7 +4,7 @@
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
 **Product:** Alvio-AccountingPro Coach
-**AI Value Archetype: CoPilot**
+**AI Value Archetype:** CoPilot
 **What is it:** AI-powered coaching that helps accountants master client conversations and grow advisory value
 
 **Your Role:** Investor / Co-Founder
